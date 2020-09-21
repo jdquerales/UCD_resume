@@ -156,7 +156,7 @@ header {
 }
 
 .menuitem span {
-    display: bloak;
+    display: block;
     width: 100%;
     padding-top: 5px;
     text-align: center;
